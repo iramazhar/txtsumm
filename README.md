@@ -18,3 +18,4 @@ This project trains a language model to generate concise summaries from longer t
 POST /summarise
 {
   "prompt": "Your long text here."
+}
