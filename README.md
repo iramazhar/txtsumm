@@ -19,3 +19,7 @@ POST /summarise
 {
   "prompt": "Your long text here."
 }
+
+## Notebooks
+- **[textsummarization.ipynb] A detailed notebook for summarizing text.
+- **[Untitled5.ipynb and Untitled6.ipynb] An exploratory notebook containing initial code and experiments.
